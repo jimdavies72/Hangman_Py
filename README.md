@@ -5,7 +5,7 @@ Just some simple inline functional Python code to play a 2 player hangman game. 
 
 Technologies used:
 
-Python 3.10
-PyCharm Community Edition 2021
-PIP
+1) Python 3.10
+2) PyCharm Community Edition 2021
+3) PIP
 
